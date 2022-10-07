@@ -1,0 +1,15 @@
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\bin\Debug\net6.0\PrimeiroProjetoConsole.exe
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\bin\Debug\net6.0\PrimeiroProjetoConsole.deps.json
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\bin\Debug\net6.0\PrimeiroProjetoConsole.runtimeconfig.json
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\bin\Debug\net6.0\PrimeiroProjetoConsole.dll
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\bin\Debug\net6.0\PrimeiroProjetoConsole.pdb
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.csproj.AssemblyReference.cache
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.AssemblyInfoInputs.cache
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.AssemblyInfo.cs
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.dll
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\refint\PrimeiroProjetoConsole.dll
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.pdb
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\PrimeiroProjetoConsole.genruntimeconfig.cache
+C:\Estudos\PrimeiroProjetoConsole\PrimeiroProjetoConsole\obj\Debug\net6.0\ref\PrimeiroProjetoConsole.dll

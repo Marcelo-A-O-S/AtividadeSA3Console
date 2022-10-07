@@ -1,0 +1,8 @@
+Nome,Idade
+Marcelo, 23
+Luciano , 20
+Cleitin,19
+Xaolin,19
+xaolin matador de porco,22
+Cleitin do pneu,18
+tuco,37

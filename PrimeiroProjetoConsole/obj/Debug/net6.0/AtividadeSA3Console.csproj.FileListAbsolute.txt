@@ -1,0 +1,15 @@
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.csproj.AssemblyReference.cache
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.AssemblyInfoInputs.cache
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.AssemblyInfo.cs
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.csproj.CoreCompileInputs.cache
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\bin\Debug\net6.0\AtividadeSA3Console.exe
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\bin\Debug\net6.0\AtividadeSA3Console.deps.json
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\bin\Debug\net6.0\AtividadeSA3Console.runtimeconfig.json
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\bin\Debug\net6.0\AtividadeSA3Console.dll
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\bin\Debug\net6.0\AtividadeSA3Console.pdb
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.dll
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\refint\AtividadeSA3Console.dll
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.pdb
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\AtividadeSA3Console.genruntimeconfig.cache
+C:\AtividadeSA3\AtividadeSA3Console\PrimeiroProjetoConsole\obj\Debug\net6.0\ref\AtividadeSA3Console.dll
