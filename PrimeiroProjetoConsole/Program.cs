@@ -9,7 +9,7 @@ public class Program
     static void Main() 
     {
 
-        //Console.WriteLine(Caminho());
+        
         Console.WriteLine("Olá,tudo bem? \nEsta é a aplicacão relacionada a atividade da SA3, vamos iniciar os testes? \nDigite uma das opcões do menu abaixo para prosseguir: ");
         Menu();
     }
